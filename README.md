@@ -1,3 +1,3 @@
 # Java Hangar
 
-Java ile ilgili her türlü veri ve uygulamalar
+* **Java ile ilgili her türlü döküman , ödev ve uygulamalar**
