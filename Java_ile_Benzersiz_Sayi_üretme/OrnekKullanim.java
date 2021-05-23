@@ -7,7 +7,7 @@ import java.util.concurrent.ThreadLocalRandom;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class OrnekKullanim {
 
     public static void main(String[] args) throws IOException {
 
